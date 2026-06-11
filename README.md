@@ -1,16 +1,17 @@
-## Hi there 👋
+# PROTOCOL // SAH-LOPEZ
+### STEALTH NODE OPERATOR & DIGITAL SYSTEM ARCHITECT • BERLIN, GERMANY
 
-<!--
-**Sah-lopez/Sah-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ CORE SPECIFICATION MATRIX
+* **Growth Architecture:** Performance Funnels, Conversion Rate Optimization (CRO), Generative Engine Optimization (GEO)
+* **Frontend Engineering:** Semantic HTML5, Core CSS Frameworks, Responsive Grid Layout Architecture
+* **Backend Systems:** Node.js, Express, RESTful API Development, System Automations & Custom Webhooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ ACTIVE NODE OPERATIONS
+* **Project JEMX:** Architecting core functional interfaces and automated network protocols under complete stealth deployment parameters.
+
+## 📊 SYSTEM COMMITMENT
+To maintain absolute security and protect proprietary commercial logic, all core enterprise pipelines, smart contracts, and production code bases are operating anonymously within private repositories. Systems are verified exclusively via encrypted terminal signatures.
+
+---
